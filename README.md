@@ -11,7 +11,7 @@ ETF Tracker @ CRB Monitor
 
 Algorithmic Trading for IMC Prosperity 4
 
-**Email:** al544@stern.nyu.edu | **LinkedIn:** [linkedin.com/in/arianna-li](linkedin.com/in/arianna-li/)
+**Email:** al544@stern.nyu.edu | **LinkedIn:** [[linkedin.com/in/arianna-li](https://www.linkedin.com/in/arianna-li/)
 
 <!--
 **al8544/al8544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
