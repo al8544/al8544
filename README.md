@@ -1,6 +1,17 @@
 ## Hi this is Arianna!
 
-I am a 
+I am a Business Major studying Computing & Data Science at New York University.
+
+## Featured Projects:
+Bot Proliferation Research on UGC Platforms @ NYU Stern Undergraduate Research
+
+Pantry Cycle - Webapp providing menstrual cycle tracking and nutrition meal-planning
+
+ETF Tracker @ CRB Monitor
+
+Algorithmic Trading for IMC Prosperity 4
+
+**Email:** al544@stern.nyu.edu | **LinkedIn:** linkedin.com/in/arianna-li
 
 <!--
 **al8544/al8544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
